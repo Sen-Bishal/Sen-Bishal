@@ -1,10 +1,13 @@
 # Bishal
 
+$\color{red}{\textbf{Undergoing security assessment}}$
+
 <p align="center">
   <b>Systems Architect | Software Engineer | Founder at ALB'DO</b>
 </p>
 
 <p align="center">
+    <img src="https://img.shields.io/badge/Undergoing_Security_Assessment-D10000?style=for-the-badge" alt="Undergoing security assessment"/>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
