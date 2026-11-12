@@ -3,7 +3,7 @@
   <img alt="Bishal Sen, Founder and CEO of ALBEDO Technologies, building ALB'DO" src="assets/banner-light.svg" width="100%">
 </picture>
 
-<img alt="Languages: Rust, C++, Go, TypeScript. Built on: Tokio, SWC, SQLite, HTTP/3, React, Linux, Docker" src="assets/stack.svg" width="100%">
+<img alt="Languages: Rust, C++, Go, TypeScript, Apple ecosystem. Built on: Tokio, SWC, SQLite, HTTP/3, React, Linux, Docker" src="assets/stack.svg" width="100%">
 
 ### Bishal Sen &nbsp;·&nbsp; Co-Founder & CEO, [ALBEDO Technologies](https://albedotechnologies.dev)
 
