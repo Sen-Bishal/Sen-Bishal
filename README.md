@@ -1,5 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-light.svg">
   <img alt="Bishal Sen, Founder and CEO of ALBEDO Technologies, building ALB'DO" src="assets/banner-light.svg" width="100%">
 </picture>
 
