@@ -2,10 +2,9 @@
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-light.svg">
   <img alt="Bishal Sen, Founder and CEO of ALBEDO Technologies, building ALB'DO" src="assets/banner-light.svg" width="100%">
 </picture>
-
 <img alt="Languages: Rust, C++, Go, TypeScript, Apple ecosystem. Built on: Tokio, SWC, SQLite, HTTP/3, React, Linux, Docker" src="assets/stack.svg" width="100%">
 
-### Bishal Sen &nbsp;·&nbsp; Co-Founder & CEO, [ALBEDO Technologies](https://albedotechnologies.dev)
+### Bishal Sen &nbsp;·&nbsp; Founder & CEO, [ALBEDO Technologies](https://albedotechnologies.dev)
 
 I build **[ALB'DO](https://github.com/Sen-Bishal/AlB-DO)**, infrastructure that compiles a web application into one executable. Pages, database, sign-in, roles, live data, jobs, email, uploads and HTTPS ship in a single binary, with no Node.js in the request path.
 
